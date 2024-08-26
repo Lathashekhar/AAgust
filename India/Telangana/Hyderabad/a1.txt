@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 First modify
+=======
+master
+>>>>>>> master
